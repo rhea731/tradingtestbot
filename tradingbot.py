@@ -16,6 +16,7 @@ ALPACA_CREDS = {
     "API_KEY":API_KEY, 
     "API_SECRET": API_SECRET, 
     "PAPER": True
+    
 }
 
 class MLTrader(Strategy): 
